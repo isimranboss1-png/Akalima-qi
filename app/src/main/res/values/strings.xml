@@ -1,3 +1,25 @@
 <resources>
     <string name="app_name">Agents AI</string>
+    <string name="status_tap_to_talk">Tap to talk</string>
+    <string name="status_connecting">Connecting...</string>
+    <string name="status_listening">Listening</string>
+    <string name="status_thinking">Thinking...</string>
+    <string name="status_speaking">Aklima AI is speaking</string>
+    <string name="status_error">Connection lost. Tap to reconnect.</string>
+    <string name="status_online">Online</string>
+    <string name="status_offline">Offline</string>
+    <string name="screen_share_label">Share Screen</string>
+    <string name="screen_share_starting">Starting Screen Share...</string>
+    <string name="screen_share_active">Screen Sharing</string>
+    <string name="screen_share_off">Screen Share Off</string>
+    <string name="screen_share_stop">Stop Sharing</string>
+    <string name="screen_share_dialog_title">Share your screen with Aklima AI?</string>
+    <string name="screen_share_dialog_body">Aklima AI can analyze the screen content you choose to share while screen sharing is active.</string>
+    <string name="screen_share_notification_title">Agents AI</string>
+    <string name="screen_share_notification_text">Aklima AI is sharing your screen</string>
+    <string name="screen_share_notification_channel">Screen Sharing</string>
+    <string name="chat_title">Chat with Aklima AI</string>
+    <string name="chat_hint">Message Aklima AI (English or বাংলা)...</string>
+    <string name="chat_read_aloud">Read replies aloud</string>
+    <string name="about_tagline">Real-time voice AI, powered by Gemini Live</string>
 </resources>
