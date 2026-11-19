@@ -1,0 +1,6 @@
+{
+  "name": "Agents AI",
+  "description": "Voice-first AI companion featuring Aklima AI with real-time conversation, synchronized text chat, and screen understanding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
